@@ -3,9 +3,6 @@
 
 #Created on Mon Apr 10 17:41:24 2017
 
-
-#!/usr/bin/env python3
-
 # DEPENDENCIES:
 import numpy as np
 import random
@@ -54,8 +51,7 @@ ax.legend(loc='lower left')
 
 plt.show()
 
-
-        ## for the maxiters_counter, upon loop completion do: maxiters_counter -=1
+## for the maxiters_counter, upon loop completion do: maxiters_counter -=1
 
 #def K_MEANS(X, k, maxiters):#maxiters_counter = maxiters
 
